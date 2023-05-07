@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E95A8C6-D993-44C8-B484-8549C121F795"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e_commerceLike/Views/CategoryCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CategoryCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F - f9e4b8aa8a1269b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.categoryImage2.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F - a51a5b19e3379da0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.categoryImage2.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F - fc08f185d941c2b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.categoryImage2.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F - c09a45db244d4840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.categoryImage2.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F - 71d5707dbb9fc185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.init(frame: __C.CGRect) -&gt; e_commerceLike.CategoryCell"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "C0722EDE-2EDE-409E-8DA5-4A4D4A7E5C8F - 768584366b51e539"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;e_commerceLike.CategoryCell&gt;"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7CE0DAB-FEDB-48F7-8170-FCBC865C98C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e_commerceLike/Views/CategoryCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CategoryCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B7CE0DAB-FEDB-48F7-8170-FCBC865C98C1 - 71d5707dbb9fc1e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.init(frame: __C.CGRect) -&gt; e_commerceLike.CategoryCell"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "B7CE0DAB-FEDB-48F7-8170-FCBC865C98C1 - 768584366b51e55a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerceLike.CategoryCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;e_commerceLike.CategoryCell&gt;"
+                  moduleName = "e_commerceLike"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Downloads/ecommerce-main/e_commerceLike/e_commerceLike/Views/CategoryCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0BE53C5-2241-49F1-A596-EF92B9E1F86C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e_commerceLike/Views/CategoryCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "CategoryCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BAF9D4A-E5B0-4EA4-B36D-5772A007A63B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e_commerceLike/Views/CategoryCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
